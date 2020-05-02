@@ -7,7 +7,9 @@ A truco game made for 3 players in local multiplayer
 
 Developers: 
 Diego Vinicius de Mello Munhoz Programming, Compress programming. 
+
 Thiago Zacarias da Silva Programming, Network programming, Gameplay programming.
+
 Victor Otavio Ponciano | Programming, gamedesign, art.
 
 Smaug Project - Fatec 2018-1
