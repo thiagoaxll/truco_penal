@@ -1,4 +1,4 @@
-# truco_penal
+# Truco Penal
 A truco game made for 3 players in local multiplayer
 
 
